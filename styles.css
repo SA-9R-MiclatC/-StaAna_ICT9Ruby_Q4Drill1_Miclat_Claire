@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(135deg, #ffd6e7, #ffeaf4);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Card */
+.main-card {
+    background: #fff0f6;
+    border-radius: 25px;
+    border: 2px solid #ffb6c1;
+}
+
+/* Title */
+h1 {
+    color: #d63384;
+    font-weight: bold;
+}
+
+/* Button */
+.btn-pink {
+    background-color: #ff69b4;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+}
+
+.btn-pink:hover {
+    background-color: #ff1493;
+}
